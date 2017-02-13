@@ -1,0 +1,3 @@
+An ANOVA was not performed to complete the analysis of the Building Class Category sale price differences.
+
+I did not give myself enough time to debug the problems with reading the data into an ANOVA analysis.
